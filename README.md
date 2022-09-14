@@ -10,4 +10,5 @@ BlaBlaCar
 
 ## Apartado B
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 Cars
