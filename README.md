@@ -2,10 +2,12 @@
 
 ## *Apartado A*
 
-```<html>
+```
+<html>
   <head>
   </head>
- </html>```
+ </html>
+ ```
 
 ## *Apartado B*
 
