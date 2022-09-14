@@ -4,6 +4,10 @@
 
 BlaBlaCar
 
+  - Si
+  - No
+  - No se
+
 ##Apartado B
 
 Cars
