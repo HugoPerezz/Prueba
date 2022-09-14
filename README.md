@@ -2,7 +2,7 @@
 
 ## *Apartado A*
 
-Codigo:
+Código:
 ```
 <html>
   <head>
