@@ -6,7 +6,7 @@
 <html>
   <head>
   </head>
- </html>
+</html>
  ```
 
 ## *Apartado B*
